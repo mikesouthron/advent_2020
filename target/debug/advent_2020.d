@@ -1,1 +1,0 @@
-c:\Users\mike.southron\Documents\Git\advent_2020\target\debug\advent_2020.exe: c:\Users\mike.southron\Documents\Git\advent_2020\src\day3.rs c:\Users\mike.southron\Documents\Git\advent_2020\src\main.rs

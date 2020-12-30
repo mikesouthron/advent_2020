@@ -1,5 +1,5 @@
-mod day3;
+mod day4;
 
 fn main() {
-    day3::execute().expect("Unable to execute day 3");
+    day4::execute().expect("Unable to execute day 4");
 }
